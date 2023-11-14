@@ -11,7 +11,7 @@ guessed = False
 while not guessed:
 guess = int(input("Enter your guess: "))
 
-attempts += 1
+attempts += 11
 
 if guess < secret_number:
 print("Higher!")
