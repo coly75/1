@@ -1,4 +1,4 @@
-import random
+import random # 
 
 def number_guess_game():
 print("Welcome to the Number Guess Game!")
